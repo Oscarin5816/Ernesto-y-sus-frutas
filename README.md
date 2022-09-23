@@ -1,2 +1,1 @@
-# Ernesto-y-sus-frutas
-Ernesto y sus frutas
+# C19_Plantilla_Proyecto_Tu_Propio_Juego_de_corredor_infinito
